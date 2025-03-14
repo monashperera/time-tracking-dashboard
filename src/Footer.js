@@ -11,7 +11,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <b>{data.challengerName}</b>
+                        {data.challengerName}
                     </a>.
                     <span>Coded by&nbsp;</span>
                     <a
@@ -20,7 +20,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         data-testid='coder-link'
                     >
-                        <b>{data.coderName}</b>
+                        {data.coderName}
                     </a>.
                 </div>
             ))}
