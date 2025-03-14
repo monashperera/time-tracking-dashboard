@@ -87,6 +87,7 @@ p {
 
 .attribution a {
     color: var(--ne-pale-blue);
+    font-weight: var(--fw-medium);
 }
 
 .time-tracking-container {
