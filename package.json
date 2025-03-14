@@ -1,6 +1,7 @@
 {
   "name": "time-tracking-dashboard",
   "version": "0.1.0",
+  "homepage": "https://monashperera.github.io/time-tracking-dashboard",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
